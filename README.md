@@ -1,3 +1,0 @@
-# CAMSync
-
-Coming soon…
