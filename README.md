@@ -1,1 +1,3 @@
-# .github
+# CAMSync
+
+Coming soon…
